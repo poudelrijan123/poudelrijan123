@@ -4,7 +4,7 @@
 
 # RIJAN POUDEL
 
-### Student Developer · Creative Technologist · AI Explorer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Student+Developer+from+Nepal;Learning+%7C+Building+%7C+Improving;Exploring+Python%2C+AI+%26+Web+Development" alt="Animated introduction" />
 
 **Nepal** 🇳🇵
 
@@ -59,6 +59,18 @@ I'm a student from Nepal interested in building useful software and exploring ho
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=poudelrijan123&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poudelrijan123&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=poudelrijan123&theme=transparent&hide_border=true" alt="GitHub contribution streak" width="70%" />
+
+</div>
+
+## GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=poudelrijan123&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" width="100%" />
 
 </div>
 
