@@ -1,17 +1,8 @@
 <!-- Profile README for github.com/poudelrijan123 -->
 
-<div align="center">
-
-# <span style="color:#A855F7;">RIJAN POUDEL</span>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Student+Developer+from+Nepal;Learning+%7C+Building+%7C+Improving;Exploring+Python%2C+AI+%26+Web+Development" alt="Animated introduction" />
-
-**<span style="color:#C084FC;">Nepal</span>** 🇳🇵
-
-[![GitHub followers](https://img.shields.io/github/followers/poudelrijan123?style=for-the-badge&logo=github&label=Followers&color=7E22CE)](https://github.com/poudelrijan123?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=poudelrijan123&style=for-the-badge&color=9333EA)](https://github.com/poudelrijan123)
-
-</div>
+<p align="center">
+  <img src="./assets/hero-purple.svg" width="100%" alt="Rijan Poudel — animated purple developer banner" />
+</p>
 
 ---
 
