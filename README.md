@@ -36,22 +36,18 @@ I'm a student from Nepal interested in building useful software and exploring ho
 - Arduino and ESP32 experiments
 - Video editing and digital design
 
-## 📸 Photography & Video Editing
+## 📸 Photography & Videography
 
-<div align="center">
+<p align="center">
+  <img src="./assets/photography-videography.svg" width="100%" alt="Rijan Poudel — Photography and Videography banner" />
+</p>
 
-![Photography](https://img.shields.io/badge/Photography-8B5CF6?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Video Editing](https://img.shields.io/badge/Video%20Editing-6D28D9?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![Visual Storytelling](https://img.shields.io/badge/Visual%20Storytelling-A78BFA?style=for-the-badge&logo=visualstudio&logoColor=white)
+I enjoy capturing moments, experimenting with visual composition, and turning ideas into engaging stories.
 
-</div>
-
-I enjoy capturing moments through photography and turning ideas into engaging visual stories.
-
-- Exploring composition, lighting, and creative photography.
-- Learning video editing, transitions, and storytelling.
-- Experimenting with color grading and cinematic visuals.
-- Combining creativity with technology to make better content.
+- Photography, lighting, and composition
+- Videography, camera movement, and visual storytelling
+- Video editing, transitions, and cinematic color grading
+- Creative content that blends technology and art
 
 ---
 
