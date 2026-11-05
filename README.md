@@ -45,7 +45,15 @@ I'm a student from Nepal interested in building useful software and exploring ho
 - Arduino and ESP32 experiments
 - Video editing and digital design
 
-## GitHub activity
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/poudelrijan123/poudelrijan123/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
+
+</div>
+
+## GitHub Statistics
 
 <div align="center">
 
